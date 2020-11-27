@@ -1,1 +1,1 @@
-# text-to-sql-backend-pt-br-deploy
+# fastapi-googletrends-googlenews-vaderSentiment-heroku
